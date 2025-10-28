@@ -7,4 +7,5 @@ void main(List<String> arguments) {
   nums.remove(10);
   print(nums);
   print(nums.length);
+  
 }
